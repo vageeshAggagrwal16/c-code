@@ -13,12 +13,12 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int arr[10] = {};
-int arrsize = sizeof arr / 4;
-int main()
-{
-    arr[0] = 100;
-    arr[arrsize - 1] = 1000;
-    cout << arr[9];
-    // cout << arrsize;
+// int arr[10] = {};
+// int arrsize = sizeof arr / 4;
+// int main()
+// {
+//     arr[0] = 100;
+//     arr[arrsize - 1] = 1000;
+//     cout << arr[9];
+//     // cout << arrsize;
 }
